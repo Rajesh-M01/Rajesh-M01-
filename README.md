@@ -1,4 +1,4 @@
-# Rajesh-M01-
+# Rajesh-M01
 Personal GitHub Profile 
 
 This README is About Me, My Skills, My Interests and Projects.
