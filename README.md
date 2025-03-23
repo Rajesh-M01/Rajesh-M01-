@@ -1,5 +1,7 @@
 # Rajesh-M01-
-Personal GitHub Profile README – About Me, Skills, Interests and Projects.
+Personal GitHub Profile 
+
+This README is About Me, My Skills, My Interests and Projects.
 
 # Hi, I'm Rajesh! 👋  
 
@@ -9,9 +11,11 @@ Currently exploring advanced AI techniques and improving my DSA skills for high-
 
 ## 🚀 Skills  
 - **Languages:** Python, C++, Java, SQL
-- **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision 
-- **Other:** DSA, Data Analytics  
+- **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision
+- **Data Science & Analytics:** Data Visualization, Pandas, NumPy, Scikit-Learn Statistical Analysis, Time Series Forecasting  
+- **Other:** Data Structures and Algorithms, Data Analytics  
  
+
 ## 📌 Featured Projects  
 - [Hybrid Sentiment Analysis (Naïve Bayes + BERT)](https://github.com/Rajesh-M01/Sentiment-Analysis-WAP)  
 A hybrid model combining Naïve Bayes and BERT for accurate sentiment classification into positive, negative, and neutral categories.
@@ -24,6 +28,8 @@ Implemented a time series forecasting model leveraging LSTM to predict Tesla sto
 
 - [Resume Analyzer](https://github.com/Rajesh-M01/Resume-Keyword-Match-)  
 Created a tool to analyze and score resumes based on relevant keywords and experience, streamlining the recruitment process.
+
+
 
 
 ## 📫 Let's Connect  
