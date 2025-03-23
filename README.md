@@ -8,8 +8,8 @@ Passionate about solving real-world problems using Machine Learning, Deep Learni
 Currently exploring advanced AI techniques and improving my DSA skills for high-impact solutions.  
 
 ## 🚀 Skills  
-- **Languages:** Python, Java, SQL, C++ 
-- **AI/ML:** Machine Learning, Deep Learning, NLP,  
+- **Languages:** Python, C++, Java, SQL
+- **AI/ML:** Machine Learning, Deep Learning, NLP, Computer Vision 
 - **Other:** DSA, Data Analytics  
  
 ## 📌 Featured Projects  
@@ -20,7 +20,7 @@ A hybrid model combining Naïve Bayes and BERT for accurate sentiment classifica
 Developed a hybrid model integrating Multinomial Naïve Bayes and LSTM to classify news articles as real or fake, improving misinformation detection.
 
 - [Stock Price Prediction using CNN-LSTM](https://github.com/Rajesh-M01/Stock-Price-Prediction-CNN-LSTM)  
-Implemented a time series forecasting model combining CNN and LSTM to predict Tesla stock prices, aiding in investment strategies.
+Implemented a time series forecasting model leveraging LSTM to predict Tesla stock prices, aiding in investment strategies.
 
 - [Resume Analyzer](https://github.com/Rajesh-M01/Resume-Keyword-Match-)  
 Created a tool to analyze and score resumes based on relevant keywords and experience, streamlining the recruitment process.
